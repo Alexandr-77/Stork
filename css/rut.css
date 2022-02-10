@@ -4,8 +4,8 @@
    --sn: #C3B9B5;
    --ko: #ff4a4a;
    --ks: #ff1414;
-   --rw: #000000;
-
+   --rw: #000000; /* color: #013d59; синий */
+   
    /* ====== font-family ====== */
    --h-font: 'Roboto', sans-serif;
 }
