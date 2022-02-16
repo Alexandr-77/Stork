@@ -183,7 +183,7 @@ a {
     background: url(../img/header/bg-3.jpg) 0 0 / cover no-repeat;
 }
 .header__dumptruck {
-    background: url(../img/header/bg-big.jpg) 0 0 / cover no-repeat;
+    background: url(../img/header/bg-big-3.jpg) 75% 0 / cover no-repeat;
 }
 .header__contakts {
     background: url(../img/contakts/contact-1.png) 50% 0 / cover no-repeat;
@@ -856,7 +856,7 @@ section.work h2 {
         background: url(../img/header/bg-3.jpg) 35% 0 / cover no-repeat;
     }
     .header__dumptruck {
-        background: url(../img/header/bg-big.jpg) 85% 0 / cover no-repeat;
+        background: url(../img/header/bg-big-2.jpg) 85% 0 / cover no-repeat;
     }
     .header__contakts {
         background: url(../img/contakts/contact-1.png) 50% 0 / cover no-repeat;
