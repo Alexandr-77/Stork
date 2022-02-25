@@ -541,7 +541,7 @@ section.work h2 {
 }
 .exskovsh__block {
     display: flex;
-    margin: 55px 0;
+    margin: 55px 0 0;
 }
 .exskovsh__block-item {
     flex: 0 0 50%;
@@ -800,7 +800,7 @@ section.work h2 {
         flex-direction: column;
     }
     .exskovsh__block {
-        margin: 40px 0;
+        margin: 40px 0 0;
         flex-direction: column;
     }
     .autobir__block {
@@ -892,7 +892,7 @@ section.work h2 {
         min-height: 290px !important;
     }
     .exskovsh {
-        padding: 25px 0;
+        padding: 25px 0 0;
     }
     .tileplit__block-making {
         gap: 15px;
